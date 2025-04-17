@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Cricket management, WebRTC live streaming, Spring Boot, Hibernate, and Real Estate CRM development**.
 - 🌱 I’m currently learning **advanced Spring Boot features, WebRTC integration, and full-stack development**.
 - 💞️ I’m looking to collaborate on **projects related to live streaming, real-time applications, and management systems**.
-- 📫 How to reach me: **You can email me at ranjeet.kumar@example.com** or connect with me on LinkedIn.
+- 📫 How to reach me: **You can email me at ranjeetkumarroya23@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once participated in a hackathon where my team built a real-time cricket match simulation!**
 
